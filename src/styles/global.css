@@ -16,9 +16,19 @@ body {
   box-sizing: border-box;
 }
 
+a[data-astro-cid-yxtifmrq] {
+  background-color: #363588;
+  border-radius: 10px;
+}
+
+a[data-astro-cid-yxtifmrq]:hover {
+  background-color: rgba(39, 36, 219, 0.8);
+  color: aqua;
+}
+
 h1 {
   margin: 1rem 0;
-  font-size: 3.2rem;
+  font-size: 4.7rem;
   font-family: "VT323", sans-serif;
 }
 
@@ -57,7 +67,9 @@ h1 {
 
 .nav-links a:hover,
 .nav-links a:focus {
-  background-color: #9f0ab3;
+  background-color: #0b08ca;
+  border-radius: 10px;
+  color: #fff;
 }
 
 .expanded {
@@ -65,7 +77,7 @@ h1 {
 }
 
 html.dark {
-  background-color: #0d0a25;
+  background-color: #282828;
   color: #fff;
 }
 
