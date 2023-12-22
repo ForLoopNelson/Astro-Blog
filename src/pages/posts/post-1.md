@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "My First Blog Post"
+title: "The first post -December 17, 2023"
 pubDate: 2023-12-17
 description: "This is the first post of my new Astro blog."
 author: "Cory N"
@@ -12,7 +12,7 @@ tags: ["astro", "blogging", "learning in public"]
 
 # My First Blog Post
 
-Published on: 2022-07-01
+Published on: 2023-12-17
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
