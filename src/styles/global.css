@@ -26,6 +26,15 @@ a[data-astro-cid-yxtifmrq]:hover {
   color: aqua;
 }
 
+a {
+  text-decoration: none;
+  font-size: larger;
+}
+
+.blogPost a:visited {
+  color: #9f0ab3;
+}
+
 h1 {
   margin: 1rem 0;
   font-size: 4.7rem;
@@ -86,6 +95,10 @@ html.dark {
 }
 
 /* my custom style section ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.blogPost > li {
+  list-style: lower-roman;
+  margin: 10px 0;
+}
 
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 
